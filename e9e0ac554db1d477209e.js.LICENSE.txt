@@ -1,0 +1,9 @@
+/*!
+ * @ecomplus/widget-product-card
+ * (c) E-Com Club <ti@e-com.club>
+ * Released under the MIT License.
+ */
+
+/*! lozad.js - v1.15.0 - 2020-05-23
+* https://github.com/ApoorvSaxena/lozad.js
+* Copyright (c) 2020 Apoorv Saxena; Licensed MIT */
